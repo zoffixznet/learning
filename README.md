@@ -14,6 +14,10 @@ Just my personal notes for learning new tech
 * https://nodejs.org/en/docs/
 * http://nodeschool.io/
 
+## SQL
+
+* http://www.sqlcourse.com/ (including [Advanced Queries](http://www.sqlcourse2.com/))
+
 ## Bash Scripting
 
 
