@@ -21,15 +21,19 @@ Just my personal notes for learning new tech
 ## Bash Scripting
 
 
+## Perl 6
+
 # Project Ideas
 
-## Rewrite zoffix.com
+## [Node.js] Rewrite zoffix.com
 
 Saner site with a place to blog. Toss outdated content
 
-## App for NASA Mars Photos API
+## [JavaScript] App for NASA Mars Photos API
 
 Write a great front end for NASA Mars Photos API and use Perl 6 to power
 the backend
 
-## Fix Modules.Perl6.Org Full Rebuild Script
+## [Bash] Fix Modules.Perl6.Org Full Rebuild Script
+
+## [Perl 6] Write MultiMarkdown Module
