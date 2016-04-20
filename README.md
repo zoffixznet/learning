@@ -20,7 +20,7 @@ Just my personal notes for learning new tech
 * http://www.sqlcourse.com/ (including [Advanced Queries](http://www.sqlcourse2.com/))
 
 ## Bash Scripting
-
+* [Linux Commands—A Practical Reference](http://www.pixelbeat.org/cmdline.html)
 
 ## Perl 6
 
