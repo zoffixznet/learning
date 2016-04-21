@@ -24,6 +24,11 @@ Just my personal notes for learning new tech
 
 ## Perl 6
 
+## Misc
+
+* Learn what DB Migrations is all about
+* Check out CoffeeScript or whatever alternative the cool kids use
+
 # Project Ideas
 
 ## [Node.js] Rewrite zoffix.com
