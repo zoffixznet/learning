@@ -6,7 +6,7 @@ Just my personal notes for learning new tech
 
 * ☑️ ~~[Learn X in Y](https://learnxinyminutes.com/docs/javascript/)~~
 * ✖️ ~~[online book with challenges](http://eloquentjavascript.net/)~~ Too oriented for new programmers
-* Read *JavaScript: The Good Pars*
+* Read *JavaScript: The Good Parts*
 * [spec](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 * https://babeljs.io/docs/learn-es2015/
 * [Katas/Koans](http://es6katas.org/)
