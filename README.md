@@ -36,6 +36,10 @@ Just my personal notes for learning new tech
 
 Saner site with a place to blog. Toss outdated content
 
+## [JavaScript]
+
+Write type map and place it on perl6.party
+
 ## [JavaScript] App for NASA Mars Photos API
 
 Write a great front end for NASA Mars Photos API and use Perl 6 to power
