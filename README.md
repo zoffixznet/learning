@@ -44,3 +44,5 @@ the backend
 ## [Bash] Fix Modules.Perl6.Org Full Rebuild Script
 
 ## [Perl 6] Write MultiMarkdown Module
+
+## [Perl 6] Implement http://www.jamapi.xyz/ as a Perl 6 module
