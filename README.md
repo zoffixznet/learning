@@ -4,6 +4,7 @@ Just my personal notes for learning new tech
 
 ## JS/ES6
 
+* You Don't Know JS: https://github.com/getify/You-Dont-Know-JS
 * ☑️ ~~[Learn X in Y](https://learnxinyminutes.com/docs/javascript/)~~
 * ✖️ ~~[online book with challenges](http://eloquentjavascript.net/)~~ Too oriented for new programmers
 * Read *JavaScript: The Good Parts*
