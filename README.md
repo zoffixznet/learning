@@ -11,6 +11,10 @@ Just my personal notes for learning new tech
 * https://babeljs.io/docs/learn-es2015/
 * [Katas/Koans](http://es6katas.org/)
 
+#### Testing
+
+* Jasmine [http://jasmine.github.io/]()
+
 ## Node.js
 
 * https://nodejs.org/en/docs/
