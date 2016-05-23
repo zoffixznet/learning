@@ -2,6 +2,10 @@ Just my personal notes for learning new tech
 
 # Tech
 
+## Compilers
+
+* [Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools#Second_edition)
+
 ## JS/ES6
 
 * You Don't Know JS: https://github.com/getify/You-Dont-Know-JS
